@@ -1,5 +1,3 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Globetrotter
 
 Submitted by: **Miguel Cuevas**
@@ -84,8 +82,6 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [X] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
-
-`TODO://` Paste the **shareable link** to your animated app walkthrough below (replace `ADD_LOOM_LINK_HERE`). GitHub markdown won't render an embedded Loom player, so a plain link is what graders will use. Make sure the link is public and playable before submitting. (🚫 Remove this paragraph after adding your walkthrough link.)
 
 **Walkthrough video:** [Globetrotter Walkthrough](https://www.loom.com/share/340abb56f4ec43eb8e460197457e617f)
 
