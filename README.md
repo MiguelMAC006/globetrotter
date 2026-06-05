@@ -12,50 +12,50 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 #### CORE FEATURES
 
-- [ ] **Home Page**
-  - [ ] A heading that mentions the destination.
-  - [ ] An introductory paragraph that welcomes visitors and describes the purpose of the website. 
-  - [ ] An evocative image *or* other visual media (video, hero-video background, etc.) that represents the location.
-  - [ ] Content organized using Flexbox for a fluid layout.
+- [X] **Home Page**
+  - [X] A heading that mentions the destination.
+  - [X] An introductory paragraph that welcomes visitors and describes the purpose of the website. 
+  - [X] An evocative image *or* other visual media (video, hero-video background, etc.) that represents the location.
+  - [X] Content organized using Flexbox for a fluid layout.
 
-- [ ] **Top Attractions Page**
-  - [ ] A separate page featuring a minimum of three attractions, each including a:
-    - [ ] Name
-    - [ ] Photo
-    - [ ] Brief description
-  - [ ] Each attraction is styled the same
+- [X] **Top Attractions Page**
+  - [X] A separate page featuring a minimum of three attractions, each including a:
+    - [X] Name
+    - [X] Photo
+    - [X] Brief description
+  - [X] Each attraction is styled the same
     - E.g. same font, image size, title size, etc. 
-  - [ ] Content arranged with Flexbox for consistency and responsiveness.
+  - [X] Content arranged with Flexbox for consistency and responsiveness.
 
-- [ ] **Guide Page** *(build one guide page of the type you choose below)*
-  - [ ] A separate page that is *one* of the following: a Food Guide, an Accommodations Guide, *or* an Upcoming Local Events Guide.
-  - [ ] At least three entries thematic to your choice that provide a:
-    - [ ] Title
-    - [ ] Address
-    - [ ] Description
-    - [ ] Link with more information (e.g. link to a restaurant page)
-  - [ ] Each entry should be:
-    - [ ] Catered to a specific type of traveler (families, backpackers, etc.)
-    - [ ] Styled the same
+- [X] **Guide Page** *(build one guide page of the type you choose below)*
+  - [X] A separate page that is *one* of the following: a Food Guide, an Accommodations Guide, *or* an Upcoming Local Events Guide.
+  - [X] At least three entries thematic to your choice that provide a:
+    - [X] Title
+    - [X] Address
+    - [X] Description
+    - [X] Link with more information (e.g. link to a restaurant page)
+  - [X] Each entry should be:
+    - [X] Catered to a specific type of traveler (families, backpackers, etc.)
+    - [X] Styled the same
       - E.g. same font, title size, etc.
-  - [ ] Content arranged with Flexbox for consistency and responsiveness. 
+  - [X] Content arranged with Flexbox for consistency and responsiveness. 
 
-- [ ] **Photo Gallery**
-  - [ ] Separate page with at least five images related to the site's topic.
-  - [ ] Each image should include a caption describing the image.
-  - [ ] Presented in a responsive design using Flexbox.
+- [X] **Photo Gallery**
+  - [X] Separate page with at least five images related to the site's topic.
+  - [X] Each image should include a caption describing the image.
+  - [X] Presented in a responsive design using Flexbox.
 
-- [ ] **Navigation Bar**
-  - [ ] Navigation bar with working links to each of the following pages:
-    - [ ] Home Page
-    - [ ] Top Attractions
-    - [ ] Photo Gallery
-    - [ ] Guide Page (Food Guide, Accommodations Guide, _or_ Upcoming Local Events Guide)
-  - [ ] Navigation bar can be accessed from each page of the website.
-  - [ ] Styled with Flexbox that adapts to different screen sizes.  
+- [X] **Navigation Bar**
+  - [X] Navigation bar with working links to each of the following pages:
+    - [X] Home Page
+    - [X] Top Attractions
+    - [X] Photo Gallery
+    - [X] Guide Page (Food Guide, Accommodations Guide, _or_ Upcoming Local Events Guide)
+  - [X] Navigation bar can be accessed from each page of the website.
+  - [X] Styled with Flexbox that adapts to different screen sizes.  
 
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
+- [X] **Smartphone Friendly**
+  - [X] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
 
 ### Stretch Features
 
@@ -75,8 +75,8 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
   - [ ] *Note*: You do not have to collect and save the data submitted using the form. 
 
-- [ ] **Deployment**
-  - [ ] Deploy your website so it's accessible to the public outside of your local machine. 
+- [X] **Deployment**
+  - [X] Deploy your website so it's accessible to the public outside of your local machine. 
   - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
 - [ ] **Custom Styling**: Add a personal touch to your site's design.
