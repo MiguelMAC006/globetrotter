@@ -2,7 +2,7 @@
 
 ## Unit Assignment: Globetrotter
 
-Submitted by: **NAME**
+Submitted by: **Miguel Cuevas**
 
 Estimated time spent: **#** hours spent in total
 
