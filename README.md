@@ -4,7 +4,7 @@
 
 Submitted by: **Miguel Cuevas**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **8** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
@@ -77,35 +77,35 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 - [X] **Deployment**
   - [X] Deploy your website so it's accessible to the public outside of your local machine. 
-  - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
+  - [X] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
-- [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
-  - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
+- [X] **Custom Styling**: Add a personal touch to your site's design.
+  - [X] Integrate at least one custom font using Google Fonts to add personality to your site.
+  - [X] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
 
 `TODO://` Paste the **shareable link** to your animated app walkthrough below (replace `ADD_LOOM_LINK_HERE`). GitHub markdown won't render an embedded Loom player, so a plain link is what graders will use. Make sure the link is public and playable before submitting. (🚫 Remove this paragraph after adding your walkthrough link.)
 
-**Walkthrough video:** [Globetrotter Walkthrough](ADD_LOOM_LINK_HERE)
+**Walkthrough video:** [Globetrotter Walkthrough](https://www.loom.com/share/340abb56f4ec43eb8e460197457e617f)
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I think that the topics discussed in the labs did prepare me pretty well to complete the assignment. I used a lot of flexboxes in my project and we covered that in the labs. There was only some CSS that I didn't know like making the cards pop out when the user's cursor hovers over them.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time I would have added videos to the background of the main page and added maps to the attractions and restaurants. I also would have just spent more time on the styling to make my website look better.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I think I covered every feature in my demo and went at a good pace. There was nothing really that didn't go as planned. Some things I noticed that my peers did that I liked were being more thoughtful of the user with the attention to detail in every card and adding maps.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap
 
 ### Shout out
 
