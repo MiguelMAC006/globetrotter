@@ -21,6 +21,11 @@ What typography (heading font / body font) fits your destination's character?
 What's one visual choice that connects to your destination's identity?
 - The rose-terracotta color scheme directly references the pink volcanic stone used in San Luis Potosí's iconic colonial buildings, creating an immediate visual connection to the city's architectural identity.
 
+
+## Wireframes
+
+![Wireframe](images/globetrotter_wireframe.png)
+
 ## Flexbox Layout Plan
 
 **Header & Navigation:**
